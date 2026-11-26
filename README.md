@@ -1,6 +1,6 @@
 # ✈️ Airline Tweet Sentiment Analyzer (NLP PR 1)
 
-> **🚀 Live Streamlit App:** **[Click here to open the Live App](https://YOUR-STREAMLIT-APP-URL.streamlit.app)** *(Replace this URL with your deployed Streamlit Community Cloud link after pushing to GitHub)*
+> **🚀 Live Streamlit App:** **[https://ftcrgyedrxszcvhbmpkjpm.streamlit.app/](https://ftcrgyedrxszcvhbmpkjpm.streamlit.app/)**
 
 **Institute:** Red & White Skill Education | **Subject:** Natural Language Processing (NLP) — Practical Report 1 (PR 1)  
 **Dataset:** [Twitter US Airline Sentiment (Kaggle)](https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment) — 14,640 real passenger tweets (14,427 unique after de-duplication) labelled `negative` (~63%), `neutral` (~21%), and `positive` (~16%).
